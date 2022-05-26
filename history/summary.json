@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/behn.cc",
     "slug": "root-site",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 173,
     "timeDay": 189,
     "timeWeek": 159,
     "timeMonth": 173,
     "timeYear": 173,
-    "dailyMinutesDown": {
-      "2022-05-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SSO",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/sso.behn.cc",
     "slug": "sso",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 897,
     "timeDay": 943,
     "timeWeek": 869,
     "timeMonth": 897,
     "timeYear": 897,
-    "dailyMinutesDown": {
-      "2022-05-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitLab",
@@ -56,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-25": 1436,
+      "2022-05-26": 110,
+      "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
